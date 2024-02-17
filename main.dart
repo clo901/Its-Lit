@@ -15,3 +15,8 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+
+class AddressSelectionPage extends StatefulWidget {
+  @override
+  _AddressSelectionPageState createState() => _AddressSelectionPageState();
+}
